@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pedraPapelTesouraApi</string>
+    <string name="enter_name">enter your name</string>
+    <string name="start_game">start game\n</string>
+</resources>
